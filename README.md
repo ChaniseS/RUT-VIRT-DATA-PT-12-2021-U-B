@@ -14,4 +14,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[2.1 - Intro to VBA Activities](03-Lesson-Plans/02-VBA/1/Activities)|[2.1 Slideshow](https://docs.google.com/presentation/d/1DsCujlDGCOooh3r5DW7rZmeCsCkOAOnYzss9sewZCHM/edit?ts=5faee0b3)|
 |[2.2 - More VBA Activities](03-Lesson-Plans/02-VBA/2/Activities)|[2.2 Slideshow](https://docs.google.com/presentation/d/1VXO2t8Py1FV2FWHqcIsdWlGIfCmT9JwmOCpQ4MQ1g4Y/edit?usp=sharing)|
 |[3.1 - Intro to Python Activities](03-Lesson-Plans/03-Python/1/Activities)|[3.1 Slideshow](https://docs.google.com/presentation/d/1JDUygDzA4knEBo6_KaXWAqsuYe9rSpsO0qQdv2HpVcQ/edit?usp=sharing)|
+|[4.1 - Intro to Pandas Activities](03-Lesson-Plans/04-Pandas/1/Activities)|[4.1 Slideshow](https://docs.google.com/presentation/d/1kyltYVDNkSf4I4dfS_sF-s9Uk7f1LCSl618pNPgKAY0/edit?usp=sharing)|
 
