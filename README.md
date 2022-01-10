@@ -16,4 +16,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[3.1 - Intro to Python Activities](03-Lesson-Plans/03-Python/1/Activities)|[3.1 Slideshow](https://docs.google.com/presentation/d/1JDUygDzA4knEBo6_KaXWAqsuYe9rSpsO0qQdv2HpVcQ/edit?usp=sharing)|
 |[4.1 - Intro to Pandas Activities](03-Lesson-Plans/04-Pandas/1/Activities)|[4.1 Slideshow](https://docs.google.com/presentation/d/1kyltYVDNkSf4I4dfS_sF-s9Uk7f1LCSl618pNPgKAY0/edit?usp=sharing)|
 |[4.2 - More Pandas Activities](03-Lesson-Plans/04-Pandas/2/Activities)|[4.2 Slideshow](https://docs.google.com/presentation/d/11y5nViOJ4e7Plb4U5WWqDy49-nSIYHBd_ubp2LlIQG0/edit?usp=sharing)|
+|[5.1 - Intro to Matplotlib Activities](03-Lesson-Plans/05-Matplotlib/1/Activities)|[5.1 Slideshow](https://docs.google.com/presentation/d/1V7UE97mRa_yDPneKnVQ4igGwEE6jqfjRL94IntXA2C8/edit?usp=sharing)|
 
