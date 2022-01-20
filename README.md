@@ -18,5 +18,6 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[4.2 - More Pandas Activities](03-Lesson-Plans/04-Pandas/2/Activities)|[4.2 Slideshow](https://docs.google.com/presentation/d/11y5nViOJ4e7Plb4U5WWqDy49-nSIYHBd_ubp2LlIQG0/edit?usp=sharing)|
 |[5.1 - Intro to Matplotlib Activities](03-Lesson-Plans/05-Matplotlib/1/Activities)|[5.1 Slideshow](https://docs.google.com/presentation/d/1V7UE97mRa_yDPneKnVQ4igGwEE6jqfjRL94IntXA2C8/edit?usp=sharing)|
 |[5.2 - More Matplotlib Activities](03-Lesson-Plans/05-Matplotlib/2/Activities)|[5.2 Slideshow](https://docs.google.com/presentation/d/1vAmYdFWHFnxMB49ZPVyrzEC4ZcXkfcMABCLwXKzNZSg/edit?usp=sharing)|
-|[6.1 - Intro to API Activities](03-Lesson-Plans/06-APIs/1/Activities)|[6.1 Slideshow](https://docs.google.com/presentation/d/1QCkmr1oyfhoaurWZ1ziVsRyrET-ZSfvgW2biYQyMUhw/edit?usp=sharing)|
+|[6.1 - Intro to API Activities](03-Lesson-Plans/06-APIs/1/Activities)|[6.1 Slideshow](https://docs.google.com/presentation/d/1QCkmr1oyfhoaurWZ1ziVsRyrET-ZSfvgW2biYQyMUhw/edit?usp=sharing)
+|[6.1.1 Video](https://zoom.us/rec/share/8FJ18Q1gg9ZQaOVqQ8EaMBYtGkv2uIAK9StCK8WL1au_1zstTN4q7MqYSdj7HZVD.4qgBkg159PTx7SRe?startTime=1625175953000)|[6.1.2 Video](https://zoom.us/rec/share/mprvOqu3-OnEfaPeEycdr50dEOXJGlkW7Wh7E1-GDtETWbsCKxFLSNWLdFAQ-1ed.ElEfcq_qqxu77UKg?startTime=1625607931000)
 [6.2 - More API Activities](03-Lesson-Plans/06-APIs/2/Activities)|[6.2 Slideshow](https://docs.google.com/presentation/d/1s5I8Ds7OpN7kSuEc-cNmcScFFuroiNHActRIXav9TaE/edit?usp=sharing)|
