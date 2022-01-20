@@ -19,3 +19,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[5.1 - Intro to Matplotlib Activities](03-Lesson-Plans/05-Matplotlib/1/Activities)|[5.1 Slideshow](https://docs.google.com/presentation/d/1V7UE97mRa_yDPneKnVQ4igGwEE6jqfjRL94IntXA2C8/edit?usp=sharing)|
 |[5.2 - More Matplotlib Activities](03-Lesson-Plans/05-Matplotlib/2/Activities)|[5.2 Slideshow](https://docs.google.com/presentation/d/1vAmYdFWHFnxMB49ZPVyrzEC4ZcXkfcMABCLwXKzNZSg/edit?usp=sharing)|
 |[6.1 - Intro to API Activities](03-Lesson-Plans/06-APIs/1/Activities)|[6.1 Slideshow](https://docs.google.com/presentation/d/1QCkmr1oyfhoaurWZ1ziVsRyrET-ZSfvgW2biYQyMUhw/edit?usp=sharing)|
+[6.2 - More API Activities](03-Lesson-Plans/06-APIs/2/Activities)|[6.2 Slideshow](https://docs.google.com/presentation/d/1s5I8Ds7OpN7kSuEc-cNmcScFFuroiNHActRIXav9TaE/edit?usp=sharing)|
