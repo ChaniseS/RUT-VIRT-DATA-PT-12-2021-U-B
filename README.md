@@ -21,3 +21,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 |[6.1 - Intro to API Activities](03-Lesson-Plans/06-APIs/1/Activities)|[6.1 Slideshow](https://docs.google.com/presentation/d/1QCkmr1oyfhoaurWZ1ziVsRyrET-ZSfvgW2biYQyMUhw/edit?usp=sharing)
 |[6.1.1 Video](https://zoom.us/rec/share/8FJ18Q1gg9ZQaOVqQ8EaMBYtGkv2uIAK9StCK8WL1au_1zstTN4q7MqYSdj7HZVD.4qgBkg159PTx7SRe?startTime=1625175953000)|[6.1.2 Video](https://zoom.us/rec/share/mprvOqu3-OnEfaPeEycdr50dEOXJGlkW7Wh7E1-GDtETWbsCKxFLSNWLdFAQ-1ed.ElEfcq_qqxu77UKg?startTime=1625607931000)
 [6.2 - More API Activities](03-Lesson-Plans/06-APIs/2/Activities)|[6.2 Slideshow](https://docs.google.com/presentation/d/1s5I8Ds7OpN7kSuEc-cNmcScFFuroiNHActRIXav9TaE/edit?usp=sharing)|
+|[7.1 - Intro to SQL](03-Lesson-Plans/07-SQL/1/Activities)|[7.1 Slideshow](https://docs.google.com/presentation/d/1HzCOAfhUik-mbi4qmJ1mnR_29QkK4QrigOngGComBVI/edit#slide=id.gab17893448_0_2766)
+[7.2 - More SQL Activities](03-Lesson-Plans/07-SQL/2/Activities)|[7.2 Slideshow](https://docs.google.com/presentation/d/1AlwTfIojjdYlO_w6tYZRI9id9-UM1RqsEa3w61hsWPM/edit#slide=id.gab17893448_0_2766)|
