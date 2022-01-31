@@ -23,3 +23,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 [6.2 - More API Activities](03-Lesson-Plans/06-APIs/2/Activities)|[6.2 Slideshow](https://docs.google.com/presentation/d/1s5I8Ds7OpN7kSuEc-cNmcScFFuroiNHActRIXav9TaE/edit?usp=sharing)|
 |[7.1 - Intro to SQL](03-Lesson-Plans/07-SQL/1/Activities)|[7.1 Slideshow](https://docs.google.com/presentation/d/1HzCOAfhUik-mbi4qmJ1mnR_29QkK4QrigOngGComBVI/edit#slide=id.gab17893448_0_2766)
 [7.2 - More SQL Activities](03-Lesson-Plans/07-SQL/2/Activities)|[7.2 Slideshow](https://docs.google.com/presentation/d/1AlwTfIojjdYlO_w6tYZRI9id9-UM1RqsEa3w61hsWPM/edit#slide=id.gab17893448_0_2766)|
+[8.1 - Extract, Transform, Load](03-Lesson-Plans/08-ETL/1/Activities)|[8.1 Slideshow](https://docs.google.com/presentation/d/1s3EkD9fX44cbN52XX2HNTJoLstPMcOig7vVcFG3g7eM/edit#slide=id.gab17893448_0_2766)|
