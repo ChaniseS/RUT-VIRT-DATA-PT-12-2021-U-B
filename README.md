@@ -25,3 +25,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 [7.2 - More SQL Activities](03-Lesson-Plans/07-SQL/2/Activities)|[7.2 Slideshow](https://docs.google.com/presentation/d/1AlwTfIojjdYlO_w6tYZRI9id9-UM1RqsEa3w61hsWPM/edit#slide=id.gab17893448_0_2766)|
 [8.1 - Extract, Transform, Load](03-Lesson-Plans/08-ETL/1/Activities)|[8.1 Slideshow](https://docs.google.com/presentation/d/1s3EkD9fX44cbN52XX2HNTJoLstPMcOig7vVcFG3g7eM/edit#slide=id.gab17893448_0_2766)|
 [8.2 - Regular Expressions](03-Lesson-Plans/08-ETL/2/Activities)|[8.2 Slideshow](https://docs.google.com/presentation/d/16YT2jtS0Aa33-s9NZUDmaYVIxey9Lf1qa1kQTDS_X4w/edit?usp=sharing)|
+[9.1 - Advanced Databases](03-Lesson-Plans/09-Advanced-Databases/1/Activities)|[9.1 Slideshow](https://docs.google.com/presentation/d/1UaT82bjYjVGkW0IQ0MqiJ6te4Hcf_LUWRQQ44fo_zKQ/edit?usp=sharing)|
