@@ -27,3 +27,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 [8.2 - Regular Expressions](03-Lesson-Plans/08-ETL/2/Activities)|[8.2 Slideshow](https://docs.google.com/presentation/d/16YT2jtS0Aa33-s9NZUDmaYVIxey9Lf1qa1kQTDS_X4w/edit?usp=sharing)|
 [9.1 - Advanced Databases](03-Lesson-Plans/09-Advanced-Databases/1/Activities)|[9.1 Slideshow](https://docs.google.com/presentation/d/1UaT82bjYjVGkW0IQ0MqiJ6te4Hcf_LUWRQQ44fo_zKQ/edit?usp=sharing)|
 [9.2 - Flask](03-Lesson-Plans/09-Advanced-Databases/2/Activities)|[9.2 Slideshow](https://docs.google.com/presentation/d/1TbU28y1xrItfWk9UkxIo6u5nXXx0RRoHkmPYpyaWWlY/edit?usp=sharing)|
+[10.1 - Web Scraping with HTML + CSS](03-Lesson-Plans/10-Web-Scraping/1/Activities)|[10.1 Slideshow](https://docs.google.com/presentation/d/1RIIOaGg2FORoF1H4MbmAYkx2lyNacE_ESFYwl41T4q4/edit?usp=sharing)|
