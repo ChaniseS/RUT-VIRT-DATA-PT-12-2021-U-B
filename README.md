@@ -29,5 +29,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 [9.2 - Flask](03-Lesson-Plans/09-Advanced-Databases/2/Activities)|[9.2 Slideshow](https://docs.google.com/presentation/d/1TbU28y1xrItfWk9UkxIo6u5nXXx0RRoHkmPYpyaWWlY/edit?usp=sharing)|
 [10.1 - Web Scraping with HTML + CSS](03-Lesson-Plans/10-Web-Scraping/1/Activities)|[10.1 Slideshow](https://docs.google.com/presentation/d/1RIIOaGg2FORoF1H4MbmAYkx2lyNacE_ESFYwl41T4q4/edit?usp=sharing)|
 [10.2 - More Web Scraping ](03-Lesson-Plans/10-Web-Scraping/2/Activities)|[10.2 Slideshow](https://docs.google.com/presentation/d/11rrb3wXF6AFwQA4vm9e7wFuCef4QUR4Dgd3eWax3Mw4/edit?usp=sharing)|
-[11.1 - Javascript](03-Lesson-Plans/10-Web-Scraping/2/Activities)|[11.1 Slideshow](https://docs.google.com/presentation/d/1Ch2JmQpVVi-7sv76qVzn_NL2lhBp8QbKovJkMWgRrkQ/edit#slide=id.gb583e51cab_0_1300)|
-[11.2 - Javascript](03-Lesson-Plans/10-Web-Scraping/2/Activities)|[11.2 Slideshow](https://docs.google.com/presentation/d/1cszXu4SisNsk9IaLzrK3St0GDNWmZZ3Ob5igAn2jVmY/edit#slide=id.gb583e51cab_0_1300)
+[11.1 - Javascript](03-Lesson-Plans/11-Javascript/2/Activities)|[11.1 Slideshow](https://docs.google.com/presentation/d/1Ch2JmQpVVi-7sv76qVzn_NL2lhBp8QbKovJkMWgRrkQ/edit?usp=sharing)|
+[11.2 - Javascript](03-Lesson-Plans/11-Javascript/2/Activities)|[11.2 Slideshow](https://docs.google.com/presentation/d/1cszXu4SisNsk9IaLzrK3St0GDNWmZZ3Ob5igAn2jVmY/edit?usp=sharing)
