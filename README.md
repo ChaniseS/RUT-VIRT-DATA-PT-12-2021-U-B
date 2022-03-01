@@ -31,3 +31,5 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 [10.2 - More Web Scraping ](03-Lesson-Plans/10-Web-Scraping/2/Activities)|[10.2 Slideshow](https://docs.google.com/presentation/d/11rrb3wXF6AFwQA4vm9e7wFuCef4QUR4Dgd3eWax3Mw4/edit?usp=sharing)|
 [11.1 - Javascript](03-Lesson-Plans/11-Javascript/2/Activities)|[11.1 Slideshow](https://docs.google.com/presentation/d/1Ch2JmQpVVi-7sv76qVzn_NL2lhBp8QbKovJkMWgRrkQ/edit?usp=sharing)|
 [11.2 - Javascript](03-Lesson-Plans/11-Javascript/2/Activities)|[11.2 Slideshow](https://docs.google.com/presentation/d/1cszXu4SisNsk9IaLzrK3St0GDNWmZZ3Ob5igAn2jVmY/edit?usp=sharing)
+[12.1 - Plotly](03-Lesson-Plans/12-plotly/1/Activities)|[12.1 Slideshow](https://docs.google.com/presentation/d/1KaaCyZ79HO0gfQKAhvPh1M4S_2YDl7up-cutLyQEQZo/edit?usp=sharing)|
+[12.2 - Plotly](03-Lesson-Plans/12-plotly/2/Activities)|[12.1 Slideshow](https://docs.google.com/presentation/d/1UE935bz1uEC0GudToPujptVFCKoHvtHbl4FdBcfW_CQ/edit?usp=sharing)|
