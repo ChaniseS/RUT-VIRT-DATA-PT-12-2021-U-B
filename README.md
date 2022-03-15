@@ -36,4 +36,4 @@ _"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benja
 [13.1 - Mapping](03-Lesson-Plans/13-Mapping/1/Activities)|[13.1 Slideshow](https://docs.google.com/presentation/d/1Coot88w0SNUHb3wfCzYNvKnDXmjgdI3hcszFUeNSo0c/edit?usp=sharing)|
 [13.2 - Mapping](03-Lesson-Plans/13-Mapping/2/Activities)|[13.2 Slideshow](https://docs.google.com/presentation/d/1zcmIhW5LCQPKbyZew5_-IBztNMI7eesPBVOi4s2na6g/edit?usp=sharing)|
 [14.1 - Tableau](03-Lesson-Plans/14-Tableau/1/Activities)|[14.1 Slideshow](https://docs.google.com/presentation/d/1KvuQTRFhzt_ie6W1h5BiVoOKwZhzK5VVdCVVKFG-3yg/edit?usp=sharing)|
-[14.2 - Tableau](03-Lesson-Plans/14-Tableau/2/Activities)|[13.2 Slideshow](https://docs.google.com/presentation/d/1IWcl3kqTb7bIl4rMB3Q6pFu3d-yz7X24-wI0qWJrz2w/edit?usp=sharing)|
+[14.2 - Tableau](03-Lesson-Plans/14-Tableau/2/Activities)|[14.2 Slideshow](https://docs.google.com/presentation/d/1IWcl3kqTb7bIl4rMB3Q6pFu3d-yz7X24-wI0qWJrz2w/edit?usp=sharing)|
